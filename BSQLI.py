@@ -6,6 +6,7 @@ Blind sqli - Pizs\x69
 For Pinky v1 
 https://www.vulnhub.com/entry/pinkys-palace-v1,225/
 
+
 """
 
 import requests
@@ -145,8 +146,11 @@ def Tables_enum():
                                         ures+=1
                                 
                                 if ures ==3:
-                                        #print()
+                                        if(x<3):
+                                                print("\n\n")
+                                                quit()
                                         break
+                                        
                 print()
 
 
