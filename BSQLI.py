@@ -3,7 +3,8 @@
 
 
 Blind sqli - Pizs\x69
-
+For Pinky v1 
+https://www.vulnhub.com/entry/pinkys-palace-v1,225/
 
 """
 
