@@ -21,7 +21,7 @@ use_table=""
 szo_hossz = 20
 ascii_set = 122
 
-dump_count=10
+dump_count=50
 dump_karakter_hossz = 32
 
 database_num = 3
